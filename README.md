@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on EDA development
+- 🔭 I’m currently working on financial trading system development
 - 🌱 I’m currently learning Godot, Lua
 - 💬 Ask me about C++, RedAlert2Reverse
 - 📫 How to reach me: QQ:496738668
